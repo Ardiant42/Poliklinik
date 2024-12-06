@@ -1,9 +1,10 @@
 # Login admin
 ```
 username    : admin
-password    : adminselalubenar
+password    : admin
 ```
 
-# Login dokter
-password adalah username, jadi password dimasukan nama dokter nya
+# Login dokter dan pasien
+username adalah nama
+password adalah alamat
 
